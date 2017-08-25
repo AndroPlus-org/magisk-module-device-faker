@@ -1,3 +1,13 @@
-# This file will be read by resetprop
-# Example: Change dpi
-# ro.sf.lcd_density=320
+ro.build.product=maple_docomo
+ro.somc.omadm.modelname=SO0000004J000000
+ro.semc.product.model=SO-04J
+ro.semc.ms_type_id=PM-1030-BV
+ro.semc.version.fs=GENERIC
+ro.semc.product.name=Xperia XZ Premium
+ro.semc.product.device=G81
+ro.product.model=SO-04J
+ro.build.flavor=maple_docomo-user
+ro.product.brand=Sony
+ro.product.name=maple_docomo
+ro.product.device=maple_docomo
+ro.product.manufacturer=Sony

@@ -1,7 +1,7 @@
-id=font-koruri-n
-name=Koruri Font
+id=device-faker-jpn
+name=Device Faker
 version=v01
 versionCode=1
-author=lindwurm,AndroPlus
-description=Koruri font patch for Japanese users.
+author=AndroPlus
+description=Your phone will become Xperia XZ Premium SO-04J!
 template=4
